@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.22"
+  },
+  "name": "solarmath",
+  "version": "0.0.1",
+  "description": "An unblocked game website for use at school.",
+  "main": "src/app.js",
+  "repository": "https://github.com/solaritygh/solarmath",
+  "author": "solarity",
+  "license": "MIT",
+  "private": false
+}
